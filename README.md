@@ -11,18 +11,26 @@
 
 </div>
 
+## 🌟 修行动态（2025/2/28）
+
+- 每日坚持在 LeetCode 秘境中修炼，争取突破周赛二题桎梏；
+- 研读 nlp 方向论文，收集 idea 以备突破所用；
+- 收集大模型八股秘籍，正在寻求名扬天下的大门派实习；
+- 踊跃报名百度 paddlepaddle 贡献悬赏榜！
+
 ## 🎓 修道之路
 
-吾自幼喜好数学物理，有幸拜入北理宗门名下。  
+吾自幼喜好数学物理，有幸拜入北理宗门修行。  
 
-- `结丹期`（`本科`）在北理前山修习 “计算机科学与技术” 功法  
-- `元婴期`（`硕士`）步入北理后山，道分为二，钻研 “软件工程” 兼 “科学与技术教育” 大道  
+- `结丹期`（`本科`，2020 - 2024）在北理前山修习 “计算机科学与技术” 功法  
+- `元婴期`（`硕士`，2024 - 至今）步入北理后山，道分为二，钻研 “软件工程” 兼 “科学与技术教育” 大道  
 
 仙路漫漫，吾将上下而求索。  
 
 ## 🔭 修炼领域
 
 日夜参悟，夜不能寐。  
+
 - 深度学习：炼丹大道
 - 强化学习：墨家傀儡术
 - 智能教育技术：孔夫子也需要修炼
@@ -71,7 +79,7 @@
 ## 📈 战力看板
 <div align="center">
   
-![LeetCode Stats](https://leetcard.jacoblin.cool/cangtianhuang?theme=dark&font=Noto%20Sans%20SC&site=cn)
+![LeetCode Stats](https://leetcard.jacoblin.cool/cangtianhuang?theme=dark&font=Noto%20Sans%20SC&ext=heatmap&site=cn)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cangtianhuang&show_icons=true&theme=radical&hide_title=true)
 
