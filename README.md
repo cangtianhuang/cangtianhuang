@@ -13,10 +13,10 @@
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=cangtianhuang&style=flat-square&color=b0472e&label=%E9%81%93%E5%8F%8B%E6%9D%A5%E8%AE%BF" alt="访问计数" />
-  <a href="https://github.com/cangtianhuang?tab=followers"><img src="https://img.shields.io/github/followers/cangtianhuang?style=flat-square&color=4f6d5a&labelColor=243447&label=%E5%90%8C%E9%81%93" alt="关注者" /></a>
-  <a href="https://github.com/cangtianhuang?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fcangtianhuang&query=%24.public_repos&style=flat-square&color=4f6d5a&labelColor=243447&label=%E4%BB%93%E5%BA%93" alt="仓库数" /></a>
-  <img src="https://img.shields.io/badge/%E6%89%80%E5%9C%A8-%E5%8C%97%E4%BA%AC-4f6d5a?style=flat-square&labelColor=243447" alt="所在地" />
+  <img src="https://komarev.com/ghpvc/?username=cangtianhuang&style=flat-square&color=b0472e&label=Visitors" alt="访问计数" />
+  <a href="https://github.com/cangtianhuang?tab=followers"><img src="https://img.shields.io/github/followers/cangtianhuang?style=flat-square&color=4f6d5a&labelColor=243447&label=Followers" alt="关注者" /></a>
+  <a href="https://github.com/cangtianhuang?tab=repositories"><img src="https://img.shields.io/badge/Repositories-4f6d5a?style=flat-square&logo=github&logoColor=f2ecdd" alt="仓库" /></a>
+  <img src="https://img.shields.io/badge/Beijing-243447?style=flat-square&logo=googlemaps&logoColor=f2ecdd" alt="所在地" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:f6f1e4,20:4f6d5a,50:243447,80:4f6d5a,100:f6f1e4&height=3&section=header" alt="" />
@@ -104,27 +104,11 @@
 
 > *纸上得来终觉浅，绝知此事要躬行。* ——陆游
 
-<div align="center">
 
-<a href="https://github.com/cangtianhuang/DeepMT">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=cangtianhuang&repo=DeepMT&bg_color=f2ecdd&title_color=243447&text_color=3c4a42&icon_color=4f6d5a&border_color=c9bda2&border_radius=8&show_owner=false" alt="DeepMT" />
-</a>
-<a href="https://github.com/cangtianhuang/humanizer-academic-zh">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=cangtianhuang&repo=humanizer-academic-zh&bg_color=f2ecdd&title_color=243447&text_color=3c4a42&icon_color=4f6d5a&border_color=c9bda2&border_radius=8&show_owner=false" alt="humanizer-academic-zh" />
-</a>
-<a href="https://github.com/cangtianhuang/BIT-compiler">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=cangtianhuang&repo=BIT-compiler&bg_color=f2ecdd&title_color=243447&text_color=3c4a42&icon_color=4f6d5a&border_color=c9bda2&border_radius=8&show_owner=false" alt="BIT-compiler" />
-</a>
-<a href="https://github.com/PaddlePaddle/Paddle">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=PaddlePaddle&repo=Paddle&bg_color=f2ecdd&title_color=243447&text_color=3c4a42&icon_color=4f6d5a&border_color=c9bda2&border_radius=8&show_owner=true" alt="PaddlePaddle" />
-</a>
-
-</div>
-
-- [DeepMT](https://github.com/cangtianhuang/DeepMT) ![](https://img.shields.io/github/stars/cangtianhuang/DeepMT?style=flat-square&color=b0472e&labelColor=243447&label=)：面向深度学习框架的蜕变测试，毕业设计项目
-- [humanizer-academic-zh](https://github.com/cangtianhuang/humanizer-academic-zh) ![](https://img.shields.io/github/stars/cangtianhuang/humanizer-academic-zh?style=flat-square&color=b0472e&labelColor=243447&label=)：中文学术文本润色工具，Claude Code 驱动
-- [BIT-compiler](https://github.com/cangtianhuang/BIT-compiler) ![](https://img.shields.io/github/stars/cangtianhuang/BIT-compiler?style=flat-square&color=b0472e&labelColor=243447&label=)：以 C 语言为题，实现一套编译器
-- [PaddlePaddle](https://github.com/PaddlePaddle/Paddle) ![](https://img.shields.io/github/stars/PaddlePaddle/Paddle?style=flat-square&color=b0472e&labelColor=243447&label=)：深度学习框架，持续参与贡献
+- [DeepMT](https://github.com/cangtianhuang/DeepMT) [![](https://img.shields.io/github/stars/cangtianhuang/DeepMT?style=flat-square&label=stars&color=b0472e&labelColor=243447)](https://github.com/cangtianhuang/DeepMT/stargazers)：面向深度学习框架的蜕变测试，毕业设计项目
+- [humanizer-academic-zh](https://github.com/cangtianhuang/humanizer-academic-zh) [![](https://img.shields.io/github/stars/cangtianhuang/humanizer-academic-zh?style=flat-square&label=stars&color=b0472e&labelColor=243447)](https://github.com/cangtianhuang/humanizer-academic-zh/stargazers)：中文学术文本润色工具，Claude Code 驱动
+- [BIT-compiler](https://github.com/cangtianhuang/BIT-compiler) [![](https://img.shields.io/github/stars/cangtianhuang/BIT-compiler?style=flat-square&label=stars&color=b0472e&labelColor=243447)](https://github.com/cangtianhuang/BIT-compiler/stargazers)：以 C 语言为题，实现一套编译器
+- [PaddlePaddle](https://github.com/PaddlePaddle/Paddle) [![](https://img.shields.io/github/stars/PaddlePaddle/Paddle?style=flat-square&label=stars&color=b0472e&labelColor=243447)](https://github.com/PaddlePaddle/Paddle/stargazers)：深度学习框架，持续参与贡献
 
 <details>
 <summary><b>往昔所作，展开一观</b></summary>
@@ -135,15 +119,6 @@
 - [BIT-Low-Code-SaaS-Platform](https://github.com/cangtianhuang/BIT-Low-Code-SaaS-Platform)：低代码平台课程设计
 - [BIT-pipelined-cpu](https://github.com/cangtianhuang/BIT-pipelined-cpu)：基于 MIPS 的五级流水线 CPU
 
-<div align="center">
-  <a href="https://github.com/cangtianhuang/EzyMemorAI">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=cangtianhuang&repo=EzyMemorAI&bg_color=f2ecdd&title_color=243447&text_color=3c4a42&icon_color=4f6d5a&border_color=c9bda2&border_radius=8&show_owner=false" alt="EzyMemorAI" />
-  </a>
-  <a href="https://github.com/cangtianhuang/BIT-pipelined-cpu">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=cangtianhuang&repo=BIT-pipelined-cpu&bg_color=f2ecdd&title_color=243447&text_color=3c4a42&icon_color=4f6d5a&border_color=c9bda2&border_radius=8&show_owner=false" alt="BIT-pipelined-cpu" />
-  </a>
-</div>
-
 </details>
 
 <div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:f6f1e4,20:4f6d5a,50:243447,80:4f6d5a,100:f6f1e4&height=3&section=header" alt="" /></div>
@@ -152,10 +127,10 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=cangtianhuang&show_icons=true&include_all_commits=true&count_private=true&bg_color=f2ecdd&title_color=243447&text_color=3c4a42&icon_color=4f6d5a&border_color=c9bda2&border_radius=8&custom_title=%E4%BF%AE%E4%B8%BA%E6%A6%82%E8%A7%88" alt="GitHub 统计" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=cangtianhuang&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=86400&bg_color=f2ecdd&title_color=243447&text_color=3c4a42&icon_color=4f6d5a&border_color=c9bda2&border_radius=8&custom_title=%E4%BF%AE%E4%B8%BA%E6%A6%82%E8%A7%88" alt="GitHub 统计" />
 <img width="49%" src="https://streak-stats.demolab.com?user=cangtianhuang&background=f2ecdd&border=c9bda2&stroke=c9bda2&ring=b0472e&fire=b0472e&currStreakLabel=243447&sideLabels=3c4a42&dates=8a8272&currStreakNum=243447&sideNums=243447&border_radius=8&date_format=Y.n.j" alt="连续提交" />
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cangtianhuang&layout=compact&langs_count=10&bg_color=f2ecdd&title_color=243447&text_color=3c4a42&border_color=c9bda2&border_radius=8&custom_title=%E6%89%80%E4%B9%A0%E8%AF%AD%E8%A8%80" alt="常用语言" />
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cangtianhuang&layout=compact&langs_count=10&cache_seconds=86400&bg_color=f2ecdd&title_color=243447&text_color=3c4a42&border_color=c9bda2&border_radius=8&custom_title=%E6%89%80%E4%B9%A0%E8%AF%AD%E8%A8%80" alt="常用语言" />
 <img width="56%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cangtianhuang&theme=default&utcOffset=8" alt="修行时辰" />
 
 </div>
@@ -165,14 +140,6 @@
 <div align="center">
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=cangtianhuang&bg_color=f2ecdd&color=243447&line=4f6d5a&point=b0472e&area=true&area_color=8fa88f&hide_border=false&border_color=c9bda2&title_color=243447&radius=8&custom_title=%E4%B8%80%E5%B9%B4%E6%9D%A5%E7%9A%84%E6%8F%90%E4%BA%A4%E8%BD%A8%E8%BF%B9" alt="提交曲线" />
-
-</div>
-
-### 试炼勋记
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=cangtianhuang&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="成就墙" />
 
 </div>
 
@@ -194,15 +161,7 @@
 
 <div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:f6f1e4,20:4f6d5a,50:243447,80:4f6d5a,100:f6f1e4&height=3&section=header" alt="" /></div>
 
-## 结缘
-
 <div align="center">
-
-<a href="mailto:l1903374751@gmail.com"><img src="https://img.shields.io/badge/%E9%80%81%E4%BF%A1-243447?style=for-the-badge&logo=gmail&logoColor=f2ecdd" alt="邮件" /></a>
-<a href="https://github.com/cangtianhuang?tab=repositories"><img src="https://img.shields.io/badge/%E8%A7%82%E4%BB%93-3f5666?style=for-the-badge&logo=github&logoColor=f2ecdd" alt="仓库" /></a>
-<a href="https://leetcode.cn/u/cangtianhuang/"><img src="https://img.shields.io/badge/%E5%88%87%E7%A3%8B-4f6d5a?style=for-the-badge&logo=leetcode&logoColor=f2ecdd" alt="LeetCode" /></a>
-
-<br /><br />
 
 <img src="https://readme-typing-svg.demolab.com?font=Ma+Shan+Zheng&size=24&pause=1600&color=4F6D5A&center=true&vCenter=true&width=760&height=48&lines=%E8%B7%AF%E6%BC%AB%E6%BC%AB%E5%85%B6%E4%BF%AE%E8%BF%9C%E5%85%AE%EF%BC%8C%E5%90%BE%E5%B0%86%E4%B8%8A%E4%B8%8B%E8%80%8C%E6%B1%82%E7%B4%A2;%E9%81%93%E9%98%BB%E4%B8%94%E9%95%BF%EF%BC%8C%E8%A1%8C%E5%88%99%E5%B0%86%E8%87%B3" alt="寄语" />
 
